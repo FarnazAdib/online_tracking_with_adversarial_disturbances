@@ -1,6 +1,6 @@
 # The python code for the paper "Online Optimal Tracking of Linear Systems with Adversarial Disturbances"
 
-The purpose of this repository is to reproduce the simulation results in the following paper. Some lines of the code is taken and inspired by deluca: A library for RL with derivatives.
+The purpose of this repository is to reproduce the simulation results in the following paper. Some lines of the code are taken and inspired by deluca: A library for RL with derivatives.
 
 https://sites.google.com/view/nsc-tutorial/codeexperiments
 
@@ -12,7 +12,12 @@ Happy coding! Happy research!
 Here is a BibTeX entry that you can use to cite the handout in a publication:
 
 ```
-
+@article{yaghmaie2022online,
+  title={Online Optimal Tracking of Linear Systems with Adversarial Disturbances},
+  author={Yaghmaie, Farnaz Adib and Modares, Hamidreza},
+  journal={Transactions on Machine Learning Research},
+  year={2022}
+}
 ```
 
 
